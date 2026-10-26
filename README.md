@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=shunter09&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F234410443%3Fv%3D4" alt="shunter09 hero visual" />
 </p>
 
-**shunter09** · Frontend or full-stack engineer
+**shunter09** · Aspiring full-stack engineer
 
 ## Currently learning
 
@@ -12,9 +12,7 @@
 
 **Learning next**
 
-- TypeScript
-- CSS
-- JavaScript
+- C#
 
 👥 **0** followers · **0** following
 
